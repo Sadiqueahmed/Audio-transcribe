@@ -24,7 +24,7 @@ import java.io.IOException;
 
 
 @RestController
-@RequestMapping("/api/transcription")
+@RequestMapping("/api/transcribe")
 public class TranscriptionController {
 
 
